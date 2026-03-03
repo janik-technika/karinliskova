@@ -1,0 +1,44 @@
+{
+  "introText": "Uvedené ceny neobsahují DPH. Daňová analýza je za dále uvedených podmínek dokumentem se zárukou, na který se vztahuje profesní odpovědnost pro případ, že na základě jeho použití vznikne daňovému poplatníkovi škoda ve smyslu obecných podmínek pro poskytování daňového poradenství.",
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Ústní poradenství",
+      "order": 1,
+      "items": [
+        {
+          "id": "item-1",
+          "name": "Ústní poradenství",
+          "description": "Za každou i započatou hodinu + cestovní a věcné náklady poradce",
+          "price": "600 Kč / hod"
+        }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "name": "Písemné poradenství",
+      "order": 2,
+      "items": [
+        {
+          "id": "item-2",
+          "name": "Písemná daňová analýza",
+          "description": "Dle rozsahu – dokument se zárukou profesní odpovědnosti",
+          "price": "od 1 000 Kč"
+        }
+      ]
+    },
+    {
+      "id": "d9b97e2a-8da0-4e28-8306-7e1a2126c3a0",
+      "name": "test",
+      "items": [
+        {
+          "id": "75f82d86-3b28-4713-a568-2286c66d44f5",
+          "name": "test",
+          "price": "1kč",
+          "description": "test"
+        }
+      ],
+      "order": 3
+    }
+  ]
+}
