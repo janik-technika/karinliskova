@@ -10,7 +10,7 @@
           "id": "item-1",
           "name": "Ústní poradenství",
           "description": "Za každou i započatou hodinu + cestovní a věcné náklady poradce",
-          "price": "600 Kč / hod"
+          "price": "800 Kč / hod"
         }
       ]
     },
@@ -23,22 +23,9 @@
           "id": "item-2",
           "name": "Písemná daňová analýza",
           "description": "Dle rozsahu – dokument se zárukou profesní odpovědnosti",
-          "price": "od 1 000 Kč"
+          "price": "od 2 000 Kč"
         }
       ]
-    },
-    {
-      "id": "d9b97e2a-8da0-4e28-8306-7e1a2126c3a0",
-      "name": "test",
-      "items": [
-        {
-          "id": "75f82d86-3b28-4713-a568-2286c66d44f5",
-          "name": "test",
-          "price": "1kč",
-          "description": "test"
-        }
-      ],
-      "order": 3
     }
   ]
 }
